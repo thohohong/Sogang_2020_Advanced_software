@@ -1,0 +1,4 @@
+C:\Users\user\Downloads\LAB789\lab7\PCA\x64\Debug\PCA.exe
+C:\Users\user\Downloads\LAB789\lab7\PCA\x64\Debug\PCA.pdb
+C:\Users\so042\Desktop\2020 고급소프트웨어실습\[고소실_7주차실습]2반_20171617_김소연\PCA\x64\Debug\PCA.exe
+C:\Users\so042\Desktop\2020 고급소프트웨어실습\[고소실_7주차실습]2반_20171617_김소연\PCA\x64\Debug\PCA.pdb

@@ -1,0 +1,2 @@
+C:\Users\so042\Desktop\2020 고급소프트웨어실습\[고소실_4주차과제]2반_20171617_김소연\x64\Debug\project4.exe
+C:\Users\so042\Desktop\2020 고급소프트웨어실습\[고소실_4주차과제]2반_20171617_김소연\x64\Debug\project4.pdb

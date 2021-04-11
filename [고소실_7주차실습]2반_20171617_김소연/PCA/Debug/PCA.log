@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  ConsoleWnd.cpp
+  MainFrm.cpp
+  PCA.cpp
+  PCADoc.cpp
+  PCAView.cpp
+C:\Users\user\Downloads\LAB789\lab7\PCA\PCAView.h(4,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'opencv2/objdetect/objdetect.hpp': No such file or directory
+  코드를 생성하고 있습니다...
+C:\Users\user\Downloads\LAB789\lab7\PCA\PCAView.h(4,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'opencv2/objdetect/objdetect.hpp': No such file or directory

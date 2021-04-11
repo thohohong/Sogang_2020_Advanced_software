@@ -1,0 +1,2 @@
+C:\Users\soyon0426\Documents\2020 고급소프트웨어실습\[고소실_8주차실습]2반_20171617_김소연\8주차 학생용 실습 파일\MLP\x64\Debug\MultiLayerPerceptron.exe
+C:\Users\soyon0426\Documents\2020 고급소프트웨어실습\[고소실_8주차실습]2반_20171617_김소연\8주차 학생용 실습 파일\MLP\x64\Debug\MultiLayerPerceptron.pdb

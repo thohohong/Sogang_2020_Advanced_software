@@ -1,0 +1,24 @@
+﻿  sift.cpp
+C:\Users\so042\Desktop\2020 고급소프트웨어실습\[고소실_3주차실습]2반_20171617_김소연\SiftTest\sift.cpp(161,73): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\so042\Desktop\2020 고급소프트웨어실습\[고소실_3주차실습]2반_20171617_김소연\SiftTest\sift.cpp(150,11): warning C4101: 'scal' :참조되지 않은 지역 변수입니다.
+C:\Users\so042\Desktop\2020 고급소프트웨어실습\[고소실_3주차실습]2반_20171617_김소연\SiftTest\sift.cpp(149,23): warning C4101: 'o' :참조되지 않은 지역 변수입니다.
+C:\Users\so042\Desktop\2020 고급소프트웨어실습\[고소실_3주차실습]2반_20171617_김소연\SiftTest\sift.cpp(225,18): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\so042\Desktop\2020 고급소프트웨어실습\[고소실_3주차실습]2반_20171617_김소연\SiftTest\sift.cpp(235,18): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\so042\Desktop\2020 고급소프트웨어실습\[고소실_3주차실습]2반_20171617_김소연\SiftTest\sift.cpp(268,9): warning C4101: 'c' :참조되지 않은 지역 변수입니다.
+C:\Users\so042\Desktop\2020 고급소프트웨어실습\[고소실_3주차실습]2반_20171617_김소연\SiftTest\sift.cpp(268,6): warning C4101: 'r' :참조되지 않은 지역 변수입니다.
+C:\Users\so042\Desktop\2020 고급소프트웨어실습\[고소실_3주차실습]2반_20171617_김소연\SiftTest\sift.cpp(303,9): warning C4101: 'c' :참조되지 않은 지역 변수입니다.
+C:\Users\so042\Desktop\2020 고급소프트웨어실습\[고소실_3주차실습]2반_20171617_김소연\SiftTest\sift.cpp(303,6): warning C4101: 'r' :참조되지 않은 지역 변수입니다.
+C:\Users\so042\Desktop\2020 고급소프트웨어실습\[고소실_3주차실습]2반_20171617_김소연\SiftTest\sift.cpp(329,8): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\so042\Desktop\2020 고급소프트웨어실습\[고소실_3주차실습]2반_20171617_김소연\SiftTest\sift.cpp(335,9): warning C4101: 'k_min' :참조되지 않은 지역 변수입니다.
+C:\Users\so042\Desktop\2020 고급소프트웨어실습\[고소실_3주차실습]2반_20171617_김소연\SiftTest\sift.cpp(335,16): warning C4101: 'k_max' :참조되지 않은 지역 변수입니다.
+C:\Users\so042\Desktop\2020 고급소프트웨어실습\[고소실_3주차실습]2반_20171617_김소연\SiftTest\sift.cpp(327,12): warning C4101: 'dn' :참조되지 않은 지역 변수입니다.
+C:\Users\so042\Desktop\2020 고급소프트웨어실습\[고소실_3주차실습]2반_20171617_김소연\SiftTest\sift.cpp(411,8): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\so042\Desktop\2020 고급소프트웨어실습\[고소실_3주차실습]2반_20171617_김소연\SiftTest\sift.cpp(412,6): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+C:\Users\so042\Desktop\2020 고급소프트웨어실습\[고소실_3주차실습]2반_20171617_김소연\SiftTest\sift.cpp(410,6): warning C4101: 'get_val' :참조되지 않은 지역 변수입니다.
+C:\Users\so042\Desktop\2020 고급소프트웨어실습\[고소실_3주차실습]2반_20171617_김소연\SiftTest\sift.cpp(412,9): warning C4101: 'l' :참조되지 않은 지역 변수입니다.
+C:\Users\so042\Desktop\2020 고급소프트웨어실습\[고소실_3주차실습]2반_20171617_김소연\SiftTest\sift.cpp(414,9): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+C:\Users\so042\Desktop\2020 고급소프트웨어실습\[고소실_3주차실습]2반_20171617_김소연\SiftTest\sift.cpp(644,21): warning C4101: 'h' :참조되지 않은 지역 변수입니다.
+C:\Users\so042\Desktop\2020 고급소프트웨어실습\[고소실_3주차실습]2반_20171617_김소연\SiftTest\sift.cpp(644,18): warning C4101: 'w' :참조되지 않은 지역 변수입니다.
+C:\Users\so042\Desktop\2020 고급소프트웨어실습\[고소실_3주차실습]2반_20171617_김소연\SiftTest\sift.cpp(1443,52): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\so042\Desktop\2020 고급소프트웨어실습\[고소실_3주차실습]2반_20171617_김소연\SiftTest\sift.cpp(1587,33): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  SiftTest.vcxproj -> C:\Users\so042\Desktop\2020 고급소프트웨어실습\[고소실_3주차실습]2반_20171617_김소연\x64\Debug\SiftTest.exe

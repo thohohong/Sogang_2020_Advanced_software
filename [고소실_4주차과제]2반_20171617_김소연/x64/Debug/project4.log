@@ -1,0 +1,16 @@
+﻿  function.cpp
+C:\Users\so042\Desktop\2020 고급소프트웨어실습\[고소실_4주차과제]2반_20171617_김소연\function.cpp(47,15): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\so042\Desktop\2020 고급소프트웨어실습\[고소실_4주차과제]2반_20171617_김소연\function.cpp(57,15): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\so042\Desktop\2020 고급소프트웨어실습\[고소실_4주차과제]2반_20171617_김소연\function.cpp(62,15): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\so042\Desktop\2020 고급소프트웨어실습\[고소실_4주차과제]2반_20171617_김소연\function.cpp(67,15): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\so042\Desktop\2020 고급소프트웨어실습\[고소실_4주차과제]2반_20171617_김소연\function.cpp(88,15): warning C4101: 'alpha' :참조되지 않은 지역 변수입니다.
+C:\Users\so042\Desktop\2020 고급소프트웨어실습\[고소실_4주차과제]2반_20171617_김소연\function.cpp(106,15): warning C4101: 'alpha' :참조되지 않은 지역 변수입니다.
+  main.cpp
+  program1_1.cpp
+  program1_2.cpp
+  program1_3.cpp
+  sp_function.cpp
+  sp_program1_1.cpp
+  sp_program1_2.cpp
+  코드를 생성하고 있습니다...
+  project4.vcxproj -> C:\Users\so042\Desktop\2020 고급소프트웨어실습\[고소실_4주차과제]2반_20171617_김소연\x64\Debug\project4.exe
